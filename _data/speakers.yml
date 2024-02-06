@@ -2,5 +2,5 @@ speaker1:
     name: "speaker1"
     url: "https://speaker1.org/"
     affiliation: "Speaker, Speaker University"
-    img: "speaker.jpg"
+    img: "speaker.png"
     bio: "Speaker is a speaker at Speaker, Speaker University."
