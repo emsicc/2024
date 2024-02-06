@@ -24,7 +24,7 @@ navbar-links:
   Speakers: "speakers"
   Papers: "papers"
   Schedule: "schedule"
-  About: "emsicc.github.io"
+  About: "https://emsicc.github.io"
 
 
 ################
