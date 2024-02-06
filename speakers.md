@@ -10,7 +10,7 @@ use-site-title: true
   {% for p in site.data.speakers %}
   {% if forloop.index<8 %}
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-6">
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     </div>
