@@ -38,7 +38,7 @@ intelligence and machine learning.
 <div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
-      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
+      <li class="list-group-item col-xs-12 col-sm-12 col-md-12">{{ p }}</li>
     {% endfor %}
   </ul>
 </div>
