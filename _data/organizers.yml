@@ -1,0 +1,15 @@
+osmani:
+  name: "Aomar Osmani"
+  url: "https://sites.google.com/view/aomar-osmani/"
+  affiliation: "Université Sorbonne Paris-Nord"
+  img: "osmani.jpeg"
+bouzefrane:
+  name: "Samia Bouzefrane"
+  url: "https://samia.roc.cnam.fr/"
+  affiliation: "Le Cnam"
+  img: "bouzefrane.jpg"
+hamidi:
+  name: "Massinissa Hamidi"
+  url: "hamidimassinissa.github.io"
+  affiliation: "Université Évry Paris-Saclay"
+  img: "hamidi.jpeg"
