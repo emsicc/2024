@@ -21,7 +21,7 @@ author: emsicc
 
 navbar-links:
   Call: "call"
-  Speakers: "speakers"
+  #Speakers: "speakers"
   Papers: "papers"
   Schedule: "schedule"
   About: "https://emsicc.github.io"
