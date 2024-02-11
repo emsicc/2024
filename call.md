@@ -33,24 +33,25 @@ Prospective authors are invited to submit original, previously unpublished work,
 
 ### Important Dates 
 
-**Submission:** ... (11:59pm Anywhere on Earth) <br>
-**Notification:** ... <br>
-**Workshop:** August 19-21
+**Submission:** April 28, 2024 (11:59pm Anywhere on Earth) <br>
+**Notification:** May 30, 2024 <br>
+**Final Manuscript Due:** June 10, 2024 <br>
+<br>
+**Workshop:** August 19-21, Vienna, Austria
 
 ### Submission Requirements
 
-Submissions to ... The submission process is double-blind.
+Authors are requested to electronically submit a PDF paper (maximum 6 pages in IEEE two-column format: https://www.ieee.org/conferences/publishing/templates.html.).
 
-All submissions must be formatted with LaTeX using the [... format](img/template.zip).
+Use the following link for submission: [https://easychair.org/conferences/?conf=emsicc2024](https://easychair.org/conferences/?conf=emsicc2024)
 
-All accepted papers will be presented ...
-
-Submission Link: [https://easychair.org/](https://easychair.org/)
+The proceedings of the workshop will be published by the Conference Publishing Services (CPS)
 
 Please email any enquiries to [emsicc.ws@gmail.com](mailto:emsicc.ws@gmail.com)
 
 ### Best Paper Awards
-...
+TBA
 
 Award sponsor:<br>
-<a href='https://www.cnam.fr/'><img src="{{site.url}}/2020/img/cnam.png" height="70px"></a>
+TBA
+<!--<a href='https://www.cnam.fr/'><img src="{{site.url}}/2020/img/cnam.png" height="70px"></a>-->
