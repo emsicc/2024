@@ -1,7 +1,7 @@
 ---
 layout: home
 title: EMSICC
-subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing
+subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing co-located with the [11th IEEE International Conference on Future Internet of Things and Cloud (FiCloud 2024)](https://ficloud.org/2024/)
 cover-img: /assets/img/wien_1.jpg
 ---
 
@@ -35,6 +35,8 @@ intelligence and machine learning.
 <hr>
 
 # Program Committee
+
+TBA
 
 <div class="container">
   <ul class="list-group list-group-flush">
