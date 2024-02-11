@@ -22,6 +22,7 @@ author: emsicc
 navbar-links:
   Call: "call"
   #Speakers: "speakers"
+  Dates: "dates"
   Papers: "papers"
   Schedule: "schedule"
   Vienna: "vienna"
