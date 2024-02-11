@@ -41,7 +41,7 @@ Prospective authors are invited to submit original, previously unpublished work,
 
 ### Submission Requirements
 
-Authors are requested to electronically submit a PDF paper (maximum 6 pages in IEEE two-column format: https://www.ieee.org/conferences/publishing/templates.html.).
+Authors are requested to electronically submit a PDF paper (maximum 6 pages in IEEE two-column format: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html).).
 
 Use the following link for submission: [https://easychair.org/conferences/?conf=emsicc2024](https://easychair.org/conferences/?conf=emsicc2024)
 
