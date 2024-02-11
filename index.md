@@ -1,9 +1,15 @@
 ---
 layout: home
 title: EMSICC
-subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing co-located with the [11th IEEE International Conference on Future Internet of Things and Cloud (FiCloud 2024)](https://ficloud.org/2024/)
+subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing (Vienna, Austria [Hybrid] 19-21 August 2024)
 cover-img: /assets/img/wien_1.jpg
 ---
+
+Co-located with the [11th IEEE International Conference on Future Internet of Things and Cloud (FiCloud 2024)](https://ficloud.org/2024/)
+
+This workshop will address a range of problems related to energy-aware, energy-efficient management
+solutions for designing distributed computing platforms (software and hardware) for the IoT, Cyber-physical
+and Cloud Computing systems.
 
 With the emergence of wireless communications, geolocation technologies and cloud computing,
 innovative applications are designed for the Internet of Things (IoT) and Cyber-physical systems,
@@ -20,6 +26,7 @@ concern for cloud data centers that need efficient management of power and perfo
 and air conditioning, and of environmental impact. These factors largely improvise cost versus energy
 optimization, which can be achieved through various approaches like optimization, computational
 intelligence and machine learning.
+
 
 
 # Organizers
