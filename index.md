@@ -2,6 +2,7 @@
 layout: home
 title: EMSICC
 subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing
+cover-img: /assets/img/wien_1.jpg
 ---
 
 With the emergence of wireless communications, geolocation technologies and cloud computing,
