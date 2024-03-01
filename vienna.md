@@ -6,7 +6,7 @@ cover-img: /assets/img/wien_2.jpg
 ---
 
 * The official travel guide of the City of Vienna: [https://www.wien.info/en](https://www.wien.info/en)
-* The official Instagram account of the Vienna tourist board: [https://www.instagram.com/viennatouristboard/](https://www.instagram.com/viennatouristboard/)
+* The official Instagram account of the Vienna tourist board: [https://www.instagram.com/viennatouristboard/](https://www.instagram.com/vienna/)
 
 Some Pictures of Vienna generously provided by the Vienna Tourism Association:
 
