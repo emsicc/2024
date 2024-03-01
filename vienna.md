@@ -5,17 +5,20 @@ subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and C
 cover-img: /assets/img/wien_2.jpg
 ---
 
-* The official travel guide of the City of Vienna: https://www.wien.info/en
-* The official Instagram account of the Vienna tourist board: https://www.instagram.com/viennatouristboard/
+* The official travel guide of the City of Vienna: [https://www.wien.info/en](https://www.wien.info/en)
+* The official Instagram account of the Vienna tourist board: [https://www.instagram.com/viennatouristboard/](https://www.instagram.com/viennatouristboard/)
 
 Some Pictures of Vienna generously provided by the Vienna Tourism Association:
 
-<img src="{{ site.baseurl }}/assets/img/40845.jpg"/>
-<img src="{{ site.baseurl }}/assets/img/40962.jpg"/>
-<img src="{{ site.baseurl }}/assets/img/40970.jpg"/>
-<img src="{{ site.baseurl }}/assets/img/50041.jpg"/>
-<img src="{{ site.baseurl }}/assets/img/50387.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/40845_resized.jpg"/><br>
 
+<img src="{{ site.baseurl }}/assets/img/40962.jpg"/><br>
+
+<img src="{{ site.baseurl }}/assets/img/40970.jpg"/><br>
+
+<img src="{{ site.baseurl }}/assets/img/50041.jpg"/><br>
+
+<img src="{{ site.baseurl }}/assets/img/50387.jpg"/>
 
 
 
