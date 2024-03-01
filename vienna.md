@@ -10,11 +10,11 @@ cover-img: /assets/img/wien_2.jpg
 
 Some Pictures of Vienna generously provided by the Vienna Tourism Association:
 
-<img src="assets/img/40845.jpg">
-<img src="assets/img/40962.jpg">
-<img src="assets/img/40970.jpg">
-<img src="assets/img/50041.jpg">
-<img src="assets/img/50387.jpg">
+<img src="{{ site.baseurl }}/assets/img/40845.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/40962.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/40970.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/50041.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/50387.jpg"/>
 
 
 
