@@ -11,6 +11,8 @@ This workshop is intended to provide a forum for discussing a wide range of prob
 
 Prospective authors are invited to submit original, previously unpublished work, reporting on novel and significant research contributions, on-going research projects, experimental results and recent developments related to, but not limited to, the following topics:
 
+- Impact of energy-aware strategies on machine learning in the cloud
+- Impact of energy-aware strategies on federated learning
 - Energy-aware/energy harvesting scheduling algorithms using intelligence
 - Adaptive middleware for energy-efficient computing
 - Instrumentation and measurement of energy-efficient computing and networking
@@ -41,11 +43,9 @@ Prospective authors are invited to submit original, previously unpublished work,
 
 ### Submission Requirements
 
-Authors are requested to electronically submit a PDF paper (maximum 6 pages in IEEE two-column format: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html).).
-
-Use the following link for submission: [https://easychair.org/conferences/?conf=emsicc2024](https://easychair.org/conferences/?conf=emsicc2024)
-
-The proceedings of the workshop will be published by the Conference Publishing Services (CPS)
+Authors are requested to electronically submit a PDF paper (maximum 6 pages in IEEE two-column format: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html).).<br>
+Use the following link for submission: [https://easychair.org/conferences/?conf=emsicc2024](https://easychair.org/conferences/?conf=emsicc2024).<br>
+The proceedings of the workshop will be published by the Conference Publishing Services (CPS).<br>
 
 Please email any enquiries to [emsicc.ws@gmail.com](mailto:emsicc.ws@gmail.com)
 
