@@ -32,9 +32,7 @@ Alternative energy sources available in the IoT and Cyber-physical systems’ su
 </div>
 <hr>
 
-# Program Committee
-
-TBA
+# Scientific Committee
 
 <div class="container">
   <ul class="list-group list-group-flush">
