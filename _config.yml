@@ -21,6 +21,7 @@ author: emsicc
 
 navbar-links:
   Call: "call"
+  Organizers: "organizers"
   #Speakers: "speakers"
   Dates: "dates"
   Papers: "papers"
