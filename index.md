@@ -8,7 +8,7 @@ cover-img: /assets/img/wien_1.jpg
 <div>
   <img
     src="{{ site.baseurl }}/assets/img/logo_emsicc2024_fond-fonce.png"
-    style="width: 600px;margin:5px"
+    style="width: 800px;margin:5px"
   />
 </div>
 
