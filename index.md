@@ -5,6 +5,15 @@ subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and C
 cover-img: /assets/img/wien_1.jpg
 ---
 
+<div
+  style="width:300px;height: 300px"
+>
+  <img
+    src="{{ site.baseurl }}/assets/img/logo_emsicc2024_fond_fonce.png"
+    style="width: 200px;margin:5px"
+  />
+</div>
+
 Co-located with the [11th IEEE International Conference on Future Internet of Things and Cloud (FiCloud 2024)](https://ficloud.org/2024/)
 
 This workshop will address a range of problems related to energy-aware, energy-efficient management
