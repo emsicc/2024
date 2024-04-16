@@ -5,12 +5,10 @@ subtitle: Workshop on Energy Management for Sustainable Internet-of-Things and C
 cover-img: /assets/img/wien_1.jpg
 ---
 
-<div
-  style="width:300px;height: 300px"
->
+<div>
   <img
     src="{{ site.baseurl }}/assets/img/logo_emsicc2024_fond-fonce.png"
-    style="width: 200px;margin:5px"
+    style="width: 600px;margin:5px"
   />
 </div>
 
