@@ -7,7 +7,7 @@ use-site-title: true
 
 # Important Dates 
 
-**Paper Submission:** April 30, 2024 (11:59pm Anywhere on Earth) <br>
+**Paper Submission:** <s>April 30, 2024</s> Extended to May 10, 2024 (11:59pm Anywhere on Earth) <br>
 **Author Notification:** May 25, 2024 <br>
 **Final Manuscript Due:** June 10, 2024 <br>
 <br>
